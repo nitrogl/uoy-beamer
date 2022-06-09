@@ -10,12 +10,12 @@ Colours and proportions try to follow as much as possible the [**brand guideline
 The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example.pdf)
 
 Page 1 for the presentation for the Faculty of Science
-![Presentation Science (Page 1, Light theme)](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example-light-theme-0.jpg)
-![Presentation Science (Page 1, Dark theme)](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example-dark-theme-0.jpg)
+![Presentation Science (Page 1, Light theme)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme-0.jpg)
+![Presentation Science (Page 1, Dark theme)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-dark-theme-0.jpg)
 
 Page 2 for the presentation for the Faculty of Science
-![Presentation Science (Page 5, Light theme)](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example-light-theme-2.jpg)
-![Presentation Science (Page 5, Dark theme)](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example-dark-theme-2.jpg)
+![Presentation Science (Page 5, Light theme)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme-2.jpg)
+![Presentation Science (Page 5, Dark theme)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-dark-theme-2.jpg)
 
 ## Usage
 The easiest way is that of cloning the repository
