@@ -1,4 +1,4 @@
-# uoy-beamer [![Example (light theme)](https://img.shields.io/badge/light theme-pdf-green.svg)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme.pdf) [![Example (dark theme)](https://img.shields.io/badge/dark theme-pdf-blue.svg)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-dark-theme.pdf)
+# uoy-beamer [![Example (light theme)](https://img.shields.io/badge/light%20theme-pdf-green.svg)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme.pdf) [![Example (dark theme)](https://img.shields.io/badge/dark%20theme-pdf-blue.svg)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-dark-theme.pdf)
 University of York LaTeX beamer template
 
 Unofficial LaTeX beamer style for outstanding and professional presentations.
