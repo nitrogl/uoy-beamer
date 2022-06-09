@@ -1,4 +1,4 @@
-# uoy-beamer [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example.pdf)
+# uoy-beamer [![Example (light theme)](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme.pdf) [![Example (dark theme)](https://img.shields.io/badge/example-pdf-green.svg)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-dark-theme.pdf)
 University of York LaTeX beamer template
 
 Unofficial LaTeX beamer style for outstanding and professional presentations.
@@ -7,7 +7,7 @@ Colours and proportions try to follow as much as possible the [**brand guideline
 
 ## Example
 
-The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/uoy-beamer/master/examples/uoy-example.pdf)
+The following are images extracted from the compiled example you can find [**here (light theme)**](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme.pdf) or here [**here (dark theme)**](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-dark-theme.pdf)
 
 Page 1 for the presentation for the Faculty of Science
 ![Presentation Science (Page 1, Light theme)](https://github.com/nitrogl/uoy-beamer/blob/main/examples/uoy-example-light-theme-0.jpg)
