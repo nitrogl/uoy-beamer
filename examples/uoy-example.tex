@@ -9,7 +9,7 @@
 \documentclass[t,compress,aspectratio=169]{beamer}
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[uoybglogo,darktheme]{uoy-beamer}
+\usepackage[uoybglogo]{uoy-beamer}
 \usepackage{listings}
 
 % Set to 1 or comment to disable transparency and enable full opacity.
@@ -39,9 +39,9 @@
   
 \uoysetidentity{Department of}{Computer Science}
 
-\title[Shorttitle]{\textbf{Title... \\ long title new line}}
+\title[Short title]{Title... \\ long title new line}
 \subtitle{Subtitle}
-\author[Shortauthor]{Author One\inst{1,2} \and Author Two\inst{2}}
+\author[Short author(s)]{Author One\inst{1,2} \and Author Two\inst{2}}
 \institute{\inst{1}University of York \\ \inst{2}Another Affiliation}
 \date[1 Jan]{1 January 1970}
 
@@ -55,7 +55,8 @@
 \maketitle
 \end{frame}
 
-
+% Uncomment to hide your department next
+% \uoysetidentity{}{}
 
 % ==============================================================
 %                         --- TOC
