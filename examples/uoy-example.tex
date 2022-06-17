@@ -73,6 +73,19 @@
 \section{Section1}
 \begin{frame}[fragile]
 \frametitle{Slide title}
+This template includes a light and a dark theme, as well as an option to remove the UoY logo from the background. Options:
+\begin{description}
+  \item[uoybglogo] To place a watermark version of the University of York logo in the background
+  \item[darktheme] To enable the dark theme
+\end{description}
+So for having a dark theme and the logo in the background, you'd load the style with
+\begin{lstlisting}
+\usepackage[uoybglogo,darktheme]{uoy-beamer}
+\end{lstlisting}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Slide title}
 You may need to add some space after the frame title
 \begin{lstlisting}
 \setlength{\frametitlemargin}{10mm}
